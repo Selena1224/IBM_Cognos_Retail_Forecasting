@@ -62,7 +62,8 @@ This experience strengthened my ability to evaluate BI tools, design practical d
 ---
 
 ## Repository Contents  
-- `IBM Cognos Analytics Presentation FINAL.pdf` – finalized presentation slides  
+- `IBM Cognos Analytics Presentation FINAL.pdf` – presentation slides
+- `ISM 6255 Team Project Report.pdf` – analytics report 
 
 ---
 
